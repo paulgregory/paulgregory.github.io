@@ -1,0 +1,7 @@
+/* Google Font Families */
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:wght@100;400;700&display=swap');
+
+/* Tailwind */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
